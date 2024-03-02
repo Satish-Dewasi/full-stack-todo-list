@@ -1,0 +1,8 @@
+# Common ignores
+.DS_Store
+logs/
+*.log
+npm-debug.log*
+
+# Ignore node_modules for frontend and backend
+node_modules/
